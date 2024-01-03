@@ -37,8 +37,11 @@ jupyter notebook Cancer-Detection-Neural-Network.ipynb
 ```
 
 ## Contributing
-If you would like to contribute to this project, please fork the repository and create a pull request, or open an issue with the tag "enhancement".
+Contributions to this project are welcome. Please open an issue to discuss proposed changes or enhancements before making a pull request.
+
+## Credits
+Thank you to [Kaggle](https://www.kaggle.com/) for hosting the dataset and competition.
 
 ## License
-The contents of this repository are covered under the [MIT License](LICENSE).
-```
+This project is open source and available under the [MIT License](LICENSE.md).
+
