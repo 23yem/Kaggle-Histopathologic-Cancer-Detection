@@ -1,5 +1,9 @@
 # Histopathologic Cancer Detection Project
 
+---
+
+<img src="picture.pdf" style="max-width: 1242px; width: 617px; height: 487px; margin: 0px;" alt="Histopathologic Cancer Detection">
+
 ## Introduction
 This is my second Machine Learning Project. Welcome to the Histopathologic Cancer Detection project repository.  This project is based on a Kaggle competition with the goal of developing an image classification algorithm using Convolutional Neural Networks (CNNs) to identify metastatic tissue in histopathologic scans of lymph node sections.
 
