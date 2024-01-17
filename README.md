@@ -1,7 +1,7 @@
 # Histopathologic Cancer Detection Project
 
 ## Introduction
-Welcome to the Histopathologic Cancer Detection project repository. This project is based on a Kaggle competition with the goal of developing an image classification algorithm using Convolutional Neural Networks (CNNs) to identify metastatic tissue in histopathologic scans of lymph node sections.
+Welcome to the Histopathologic Cancer Detection project repository. This is my second Machine Learning Project. This project is based on a Kaggle competition with the goal of developing an image classification algorithm using Convolutional Neural Networks (CNNs) to identify metastatic tissue in histopathologic scans of lymph node sections.
 
 ## Project Description
 The primary challenge in this competition is to create a model that can accurately classify microscopic images of lymph node sections as containing metastatic tissue or not. This repository includes the code for building and training a CNN to tackle this problem. The model is developed in Python using TensorFlow and Keras.
