@@ -12,7 +12,7 @@ The primary challenge in this competition is to create a model that can accurate
 
 
 ## Portfolio Website with my BEST Deployed Models in the cloud
-I also made a [custom interactive website for this project](https://michael-ye-ritchers-earthquake-predictor-home.streamlit.app/), which describes the project, my techniques, and most importantly, I deployed my best models and allowed users to pass in images which are given to the model in the cloud and gives back predictions of the image having cancer or not. Try it out at https://michael-ye-ritchers-earthquake-predictor-home.streamlit.app/
+I also made a [custom interactive website for this project](https://michael-ye-histopathologic-cancer-detection-home.streamlit.app/), which describes the project, my techniques, and most importantly, I deployed my best models and allowed users to pass in images which are given to the model in the cloud and gives back predictions of the image having cancer or not. Try it out at https://michael-ye-histopathologic-cancer-detection-home.streamlit.app/
 
 
 ## File Descriptions
