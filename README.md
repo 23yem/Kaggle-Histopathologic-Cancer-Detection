@@ -10,6 +10,11 @@ This is my second Machine Learning Project. Welcome to the Histopathologic Cance
 ## Project Description
 The primary challenge in this competition is to create a model that can accurately classify microscopic images of lymph node sections as containing metastatic tissue or not. This repository includes the code for building and training a CNN to tackle this problem. The model is developed in Python using TensorFlow and Keras.
 
+
+## Portfolio Website with my BEST Deployed Models in the cloud
+I also made a [custom interactive website for this project](https://michael-ye-ritchers-earthquake-predictor-home.streamlit.app/), which describes the project, my techniques, and most importantly, I deployed my best models and allowed users to pass in images which are given to the model in the cloud and gives back predictions of the image having cancer or not. Try it out at https://michael-ye-ritchers-earthquake-predictor-home.streamlit.app/
+
+
 ## File Descriptions
 - `Cancer-Detection-Neural-Network.ipynb`: The main Jupyter notebook with the CNN model development and training process.
 - `labels.csv`: The file containing labels for the image data.
